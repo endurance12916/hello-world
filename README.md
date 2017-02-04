@@ -2,4 +2,4 @@
 
 Hi Humans!
 
-The next big thing starts here!
+The next big thing starts here.
